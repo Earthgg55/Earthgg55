@@ -1,4 +1,11 @@
-# Hi,My name is Earth and I'm a beginner at coding.
-- First I'm interesting in Web application Dev
-- Sec I'm currently learning on github.
-- Third I don't know what to write.
+# Hi, I'm Earth 👋
+
+I'm a beginner learning to code and explore GitHub.
+
+## About me
+
+- 🌐 I'm interested in web application development.
+- 🌱 I'm currently learning how to use GitHub.
+- 🚀 I'm building my skills one project at a time.
+
+Thanks for visiting my profile!
